@@ -38,7 +38,7 @@ Ceci est un GIF:
 ---
 ## Comment insérer un blockquote ou bloc de citation
 
-Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
+- Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
 
 ```>Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.```
 
@@ -46,4 +46,16 @@ et voici le résultat affiché :
 
 >Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
 
---- 
+### Comment créer un bloc de citations avec plusieurs paragraphes
+
+- Ajouter un ">" sur les lignes vides entre les paragraphes 
+
+```>Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
+>
+>voici le seconde paragraphe```
+
+et voici le résulat affiché:
+
+>Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
+>
+>voici le seconde paragraphe
