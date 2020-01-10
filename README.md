@@ -7,7 +7,7 @@
 - [Julien](https://github.com/Julien-Minder) 
 
 
-![The Dream Team](https://media.giphy.com/media/dSetNZo2AJfptAk9hp/giphy.gif)
+![The Dream Team](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)
 ---
 ## Objet du travail
 Dans le cadre de notre premier travil de groupe, nous devions réalier une liste syntaxique du language Markdown contenu au minimum sur deux fichiers.  
