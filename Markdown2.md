@@ -50,9 +50,7 @@ et voici le résultat affiché :
 
 - Ajouter un ">" sur les lignes vides entre les paragraphes 
 
-```>Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
->
->voici le second paragraphe```
+![example](https://i.imgur.com/y53A6gQ.png)
 
 et voici le résulat affiché:
 
