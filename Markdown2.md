@@ -11,7 +11,7 @@ Pour créer un lien dans un fichier Markdown:
 - *Syntaxe finale*
  ```"J'adore aller sur [giphy](https://giphy.com/)."```
 
-J'adore aller sur [giphy](https://giphy.com/).
+  J'adore aller sur [giphy](https://giphy.com/).
 
 ---
 ## Comment insérer une image statique ou animée dans un document Markdown
