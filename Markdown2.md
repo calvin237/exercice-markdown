@@ -1,9 +1,11 @@
 
 
 
+## Comment insérer un lien dans un document Markdown
 
 
-## comment insérer une image statique ou animée dans MARKDOWN
+---
+## Comment insérer une image statique ou animée dans un document Markdown
 
-![Kangooroo](https://media.giphy.com/media/whN81t40IR0Pe/giphy.gif)
+![Kangooroo](https://gfycat.com/shabbyjointblackpanther)
 ---
