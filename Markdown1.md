@@ -10,4 +10,4 @@ Elle a été adoptée par des sites comme StackOverflow, Github (pour la rédact
 1. Facile et rapide
 2. Rendu et syntaxe faciles à lire
 3. Très leger
-4. Beacoup utilisé pour les README sur github 
+4. Utilisé pour les README sur github 
