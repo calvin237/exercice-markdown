@@ -52,10 +52,10 @@ et voici le résultat affiché :
 
 ```>Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
 >
->voici le seconde paragraphe```
+>voici le second paragraphe```
 
 et voici le résulat affiché:
 
 >Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
 >
->voici le seconde paragraphe
+>voici le second paragraphe
