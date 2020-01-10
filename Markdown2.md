@@ -19,7 +19,11 @@ Pour afficher du code avec le code couleur, comme ceci :
 
 Il faut placer le code entre 3 guillemets simples et rajouter le langage utilisé
 
-` javascript `
+>``` javascript
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+>```
 
 ``` javascript
 <script type="text/javascript">
