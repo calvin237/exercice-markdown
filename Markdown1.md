@@ -13,4 +13,6 @@ Elle a été adoptée par des sites comme StackOverflow, Github (pour la rédact
 4. Utilisé pour les README sur github
 
 
-[Seconde partie](./Markdown2.md/#LISTE) 
+## Navigation
+
+[Seconde partie](./Markdown2.md/#LISTE)
