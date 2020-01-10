@@ -15,4 +15,4 @@ Elle a été adoptée par des sites comme StackOverflow, Github (pour la rédact
 
 ## Navigation
 
-[Seconde partie](./Markdown2.md/#LISTE)
+[**Seconde partie**](./Markdown2.md/#LISTE)
