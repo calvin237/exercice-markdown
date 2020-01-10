@@ -13,4 +13,4 @@ Elle a été adoptée par des sites comme StackOverflow, Github (pour la rédact
 4. Utilisé pour les README sur github
 
 
-[SUITE](./Markdown2.md/#LISTE) 
+[Seconde partie](./Markdown2.md/#LISTE) 
