@@ -20,3 +20,14 @@ ou encore comme ca
 ### le 3
 #### le 4
 ##### le 5
+---
+
+### mettre en gras 
+pour mettre en gras il faut utiliser **...**
+
+exemple: **Calvin** cherche la maniere la plus éfficace d'utiliser son temps.
+
+
+
+
+
