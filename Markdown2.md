@@ -31,3 +31,14 @@ Ceci est un ours:
 
 ![Ours](https://media.giphy.com/media/lPX7Ut3uGdRjfeY5gu/giphy.gif)
 ---
+## Comment insérer un blockquote ou bloc de citation
+
+Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
+
+```>Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.```
+
+et voici le résultat affiché :
+
+>Pour créer un "bloc de citation", insérer un ">" au début d'un paragraphe.
+
+--- 
