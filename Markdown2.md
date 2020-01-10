@@ -20,12 +20,11 @@ Pour créer un lien dans un fichier Markdown:
 Pour insérer une image ou un gif dans un fichier Markdown:
 
 
-- Pour commencer insérer un "!" suivi de [ ] et enfin ( )
-
-**exemple**
-
-
-"![nom de l'image](url de l'image ou gif)"
+- Pour commencer insérer un "!"
+- Suivi de [ ] pour indiquer le nom de l'image
+- Enfin ( ) dans lequel il faut coller l'url de l'image ou gif à inséré.
+- *Syntaxe finale*
+```"![nom de l'image](url de l'image ou gif)"```
 
 Ceci est un ours:
 
