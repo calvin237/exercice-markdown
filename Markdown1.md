@@ -1,5 +1,5 @@
 # Le Markdown
-Markdown est un langage de balisage léger créé en 2004 par John Gruber avec l'aide d' Aaron Swartz.
+Le Markdown est un langage de balisage léger créé en 2004 par John Gruber avec l'aide d' Aaron Swartz.
 
 C’est une syntaxe minimale permettant d’écrire du texte pour le web, puis de le convertir en HTML.
 
