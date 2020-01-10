@@ -14,4 +14,5 @@ Nous devions réalier une liste syntaxique du language Markdown contenu au minim
 En incluant des liens entre ces différents fichiers.
 
 # Notre travail 
-**Partie**[1](./Markdown1.md)[2](./Markdown2.md)
+[**Première partie**](./Markdown1.md)  
+[**Seconde Partie**](./Markdown2.md)
