@@ -7,4 +7,4 @@
             + 12 espaces
 2. Et retour à la première liste
 ---
-color:red "Hamilton 3.19"
+<span style="color:red">Hamilton 3.19</span>
