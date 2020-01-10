@@ -9,12 +9,16 @@
 ---
 ### Colorisation Syntaxique
 
-`
+Pour afficher du code avec le code couleur, comme ceci :
+
 ``` javascript
 <script type="text/javascript">
     alert("Hello!");
 </script>
 ```
+
+Il faut placer le code entre 3 guillemets simples "" et rajouter le langage utilisé
+
 ` ``` javascript``` `
 
 ``` javascript
