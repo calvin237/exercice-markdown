@@ -17,14 +17,9 @@ Pour afficher du code avec le code couleur, comme ceci :
 </script>
 ```
 
-Il faut placer le code entre 3 guillemets simples et rajouter le langage utilisé
+Il faut placer le code entre 3 guillemets simples et rajouter le langage utilisé et finir pas 3 guillemets simples
 
->
->``` javascript
-
-
-
-
+![js](https://imgur.com/m6VlWgK)
 
 ``` javascript
 <script type="text/javascript">
