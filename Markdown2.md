@@ -1,12 +1,14 @@
 
 
 ---
-1. Les listes peuvent être imbriquées
-    * 4 espaces
-        - 8 espaces
-            + 12 espaces
-2. Et retour à la première liste
+1. Premier arguments
+    * 4 espaces (premier sous argument)
+        - 8 espaces (deuxième sous argument)
+            + 12 espaces (troisième sous argument)
+2. Deuxième argument
 ---
+### Colorisation Syntaxique
+
 ``` javascript
 <script type="text/javascript">
     alert("Hello!");
