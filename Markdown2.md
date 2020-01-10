@@ -7,6 +7,8 @@
             + 12 espaces
 2. Et retour à la première liste
 ---
-<span style="color:red">Hamilton 3.19</span>
-CAMARCHPA
+``` js
+<script type="text/javascript">
+    alert("Hello!");
+</script>
 ***
