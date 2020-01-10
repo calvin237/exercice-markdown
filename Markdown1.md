@@ -1,4 +1,4 @@
-# <center>Le Markdown </center>![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png)
+# <p align="justify">Le Markdown</p> ![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png)
 Le Markdown est un langage de balisage léger créé en 2004 par John Gruber avec l'aide d' Aaron Swartz.
 
 C’est une syntaxe minimale permettant d’écrire du texte pour le web, puis de le convertir en HTML.
