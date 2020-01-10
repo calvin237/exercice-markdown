@@ -15,7 +15,7 @@
     alert("Hello!");
 </script>
 ```
-`
+` ``` javascript``` `
 
 ``` javascript
 <script type="text/javascript">
