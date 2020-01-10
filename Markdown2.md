@@ -26,6 +26,8 @@ Pour insérer une image ou un gif dans un fichier Markdown:
 - *Syntaxe finale*
 ```"![nom de l'image](url de l'image ou gif)"```
 
+![I see links](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiw1pG4_vjmAhXEJlAKHTOtAHcQjRx6BAgBEAQ&url=https%3A%2F%2Fauthority.builders%2Fblog%2Fsocial-proof-link-strategy%2F&psig=AOvVaw3B9_QwlmWGA6d2eS5-Cl5W&ust=1578744118992391)
+
 Ceci est un ours:
 
 
