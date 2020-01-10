@@ -76,7 +76,7 @@ et voici le résultat affiché :
 
 ### Comment créer un bloc de citations avec plusieurs paragraphes
 
-- Ajouter un ">" sur les lignes vides entre les paragraphes 
+- Ajouter un ">" sur les lignes vides entre les paragraphes
 
 ![example](https://i.imgur.com/y53A6gQ.png)
 
@@ -86,8 +86,9 @@ et voici le résulat affiché:
 >
 >voici le second paragraphe
 
---- 
+---
 ## Navigation
 
 
 [**Première partie**](./Markdown1.md)
+[**README**](./README.md)
