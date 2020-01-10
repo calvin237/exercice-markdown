@@ -59,4 +59,7 @@ et voici le résulat affiché:
 >voici le second paragraphe
 
 --- 
-**Première partie**[ici](./Markdown1.md)
+## Navigation
+
+
+[**Première partie**](./Markdown1.md)
