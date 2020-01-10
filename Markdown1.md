@@ -28,8 +28,8 @@ ou encore comme ca
 * julien
 ---
 
-## faire une liste numérotée
-### liste de nos boissons
+## Faire une liste numérotée
+### Liste de nos boissons
 1. jus d'orange pour julien
 2. coca-cola pour thomas
 3. eau pour calvin
@@ -41,7 +41,7 @@ ou encore comme ca
 ##### le 5
 ---
 
-### Mettre en gras
+## Mettre en gras
 pour mettre en gras il faut utiliser **...**
 
 exemple: **Calvin** cherche la maniere la plus efficace d'utiliser son temps.
