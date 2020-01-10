@@ -17,8 +17,8 @@ Elle a été adoptée par des sites comme StackOverflow, Github (pour la rédact
 4. Utilisé pour les README sur github
 
 
-## comment faire une liste à puces sur Markdown
-### liste des étudiants de mon groupe
+## Comment faire une liste à puces sur Markdown
+### Liste des étudiants de mon groupe
 - thomas
 - calvin
 - julien
@@ -28,7 +28,7 @@ ou encore comme ca
 * julien
 ---
 
-## faire une liste numèrotée
+## faire une liste numérotée
 ### liste de nos boissons
 1. jus d'orange pour julien
 2. coca-cola pour thomas
@@ -41,10 +41,10 @@ ou encore comme ca
 ##### le 5
 ---
 
-### mettre en gras
+### Mettre en gras
 pour mettre en gras il faut utiliser **...**
 
-exemple: **Calvin** cherche la maniere la plus éfficace d'utiliser son temps.
+exemple: **Calvin** cherche la maniere la plus efficace d'utiliser son temps.
 
 
 
