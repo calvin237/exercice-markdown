@@ -7,8 +7,9 @@
             + 12 espaces
 2. Et retour à la première liste
 ---
-``` js
+``` javascript
 <script type="text/javascript">
     alert("Hello!");
 </script>
+```
 ***
