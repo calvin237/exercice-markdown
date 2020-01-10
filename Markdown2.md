@@ -9,7 +9,7 @@ Pour créer un lien dans un fichier Markdown:
 - suivi par l'url du lien entre parenthèses (ex.,(https://giphy.com/))
 
 - *Syntaxe finale*
- "J'adore aller sur [giphy](https://giphy.com/)."
+ ```"J'adore aller sur [giphy](https://giphy.com/)."```
 
 J'adore aller sur [giphy](https://giphy.com/).
 
@@ -20,7 +20,7 @@ J'adore aller sur [giphy](https://giphy.com/).
 Pour insérer une image ou un gif dans un fichier Markdown:
 
 
--Pour commencer insérer un "!" suivi de [ ] et enfin ( )
+- Pour commencer insérer un "!" suivi de [ ] et enfin ( )
 
 **exemple**
 
