@@ -21,10 +21,10 @@ Il faut placer le code entre 3 guillemets simples et rajouter le langage utilisÃ
 
 >
 >``` javascript
-> <script type="text/javascript">
->    alert("Hello!");
-> </script>
-> ```
+
+
+
+
 
 ``` javascript
 <script type="text/javascript">
